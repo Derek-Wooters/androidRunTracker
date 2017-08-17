@@ -216,6 +216,8 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
      */
     public void setSessionStatus(String status) {
         // TODO: what is the purpose of sharedPreferences
+            // sharedPreferences persist
+            // Should probably be used for app settings - hmmm
         SharedPreferences sharedPref = getSharedPreferences("com.daniel.workouttracker.PREFERENCES",
                 Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = sharedPref.edit();
