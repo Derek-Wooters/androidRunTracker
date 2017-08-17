@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\4402844b02815bb3384f7d0ed5e67a3ce53b9cfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b50c1e5def06dddd695f74f93ea0fcb44c30178a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_83ac4cc09e4f0f501ddff7cdf0b7549cf2fa8dfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\d7c0a3087077ed646162f0c9f240feba01f81d36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b863db29f4c5847ad3f860a120d8d4ced03c2060\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\68cfd649772a9bcb850b74d8eb3104f367173ba6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26910669dd2414c6df0f08a2f3758b52cd7f441e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1f2a81d3c62a87a7e694206bf69447bd08b0ef8">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c52db5ab34748d91c06c67b0c42b5448ac0f0127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\2bd52289e69c16579b49abfcfb731e8e409cd0bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa8e09aef839a7f76128506cf843ae884a3c96ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\ee866cdb5c0b92c3a1d7ddb5e5a5259f9b0404be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abd1209a928f63d1b5ec979696885b10d6c18203\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\b071ddafc933a35a5e6459d9780d1c75e22e0b9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65381c40f03e2ced505ef187c5d3842f0ce00ae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_353da585027c534c730feeb5fca37e820963be1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\f3e7f96278a5a1421d4587d487db97b3aa18030a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e04475533933d4c974a806ebf6bb8a101b4dcac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\e825414ea5bd7f26105d6ac70843c7e1292dce40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d858ca59acd612de793c667346490aad843e6ac6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\17898da08e3d82407209354623d554245cfb7923\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fb9fcfa943201e408eec8fa74e1b021fe51a63f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwoot\.android\build-cache\72559f5113a9125cf6ec0bcfed78fb0e089cb053\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="C:\Users\dwoot\AndroidStudioProjects\WorkoutTracker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52473d798dc88bf6620541c21d6e682760dc7526\classes.dex" />
+    </item>
+
+</items>
